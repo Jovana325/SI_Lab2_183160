@@ -15,3 +15,5 @@ else if (hr == 24 && min == 0 && sec == 0) {  //20   <br />
     T && T && T, T && F && F, F && F && T, F && T && F, T && F && T   <br />
 ![Multiple condition](https://github.com/Jovana325/SI_lab2_183160/blob/main/Multiple%20condition.png)
 # Tест случаи според Every branch критериумот
+Ги зедов броевите 3,1,3   -1,1,1   5,0,5
+![Every branch](https://github.com/Jovana325/SI_lab2_183160/blob/main/Every%20Branch.png)
