@@ -3,5 +3,6 @@
 # Control Flow Graph
 #[Control Flow Graph]https://github.com/Jovana325/SI_lab2_2021_183160/blob/main/Control%20Flow%20Graph-slika.png
 # Цикломатска комплексност
+#Цикломатската комплексност на овој код изнесува 8. Истата ја добив со помош на формулата P+1. Во овој случај P=7, па следува дека цикломатската комплексност е 8.
 # Tест случаи според Multiple condition критериумот
 # Tест случаи според Every branch критериумот
